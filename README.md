@@ -17,5 +17,4 @@ yarn test
 yarn clean
 yarn node
 yarn deploy
-npx hardhat run scripts/deploy.ts
 ```
